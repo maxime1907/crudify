@@ -1,0 +1,13 @@
+package: github.com/maxime1907/crudify
+import:
+- package: github.com/gocraft/dbr
+  subpackages:
+  - dialect
+- package: github.com/google/uuid
+- package: github.com/gorilla/mux
+- package: github.com/json-iterator/go
+- package: github.com/lib/pq
+- package: github.com/rs/zerolog
+  subpackages:
+  - log
+- package: github.com/spf13/viper

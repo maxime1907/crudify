@@ -1,0 +1,13 @@
+{
+	"database" : {
+		"host" : "127.0.0.1",
+		"user" : "test",
+		"dbname" : "test",
+		"password" : "testpass",
+		"sslmode" : "disable",
+		"driver" : "postgres"
+	},
+	"server" : {
+		"port" : 8080
+	}
+}
